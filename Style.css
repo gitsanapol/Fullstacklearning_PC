@@ -1,0 +1,14 @@
+*{color: blue;}
+
+.Child{
+    color: red;
+}
+
+.SubChild.up{
+    color: rgb(67, 165, 42);
+    font-size: large;
+}
+
+.down{
+    font-size: smaller;
+}
